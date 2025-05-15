@@ -1,0 +1,28 @@
+{
+  "name": "mern---mongodb-express-react-node",
+  "version": "1.0.0",
+  "description": "Learning MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phyoewaiaung/MERN---Mongodb-Express-React-Node.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "phyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phyoewaiaung/MERN---Mongodb-Express-React-Node/issues"
+  },
+  "homepage": "https://github.com/phyoewaiaung/MERN---Mongodb-Express-React-Node#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
