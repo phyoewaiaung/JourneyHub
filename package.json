@@ -4,7 +4,7 @@
   "description": "Learning MERN",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
