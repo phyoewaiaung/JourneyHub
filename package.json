@@ -4,7 +4,7 @@
   "description": "Learning MERN",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon server.js",
+    "start": "nodemon server.js",
     "start:prod": "cross-env NODE_ENV=production nodemon server.js"
   },
   "repository": {
@@ -26,6 +26,7 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "mongoose": "^5.13.23",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
@@ -41,4 +42,3 @@
     "prettier": "^3.5.3"
   }
 }
-  
